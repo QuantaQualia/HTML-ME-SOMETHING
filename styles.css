@@ -6,8 +6,38 @@ img, iframe {
     padding: 50;
  }
 
-h1, h2 {
+h1 {
     text-align: center;
 }
 
+#centeredHeading {
+    text-align: center;
+}
 
+body {
+    display: block;
+    margin 8px;
+}
+
+.thumb {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 5px;
+    width: 150px;
+    margin-left: 0;
+}
+
+#mainHeading {
+    color: red;
+}
+
+.funParagraph {
+    color: green;
+}
+
+body {background-color: gold;
+}
+
+p{
+    font-size: 2em;
+}
